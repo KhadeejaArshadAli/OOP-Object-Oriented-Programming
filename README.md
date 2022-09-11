@@ -1,2 +1,5 @@
-# complexnumber
-Different types of constructor and performing simple arithmetic operation between objects 
+OOP(Object-Oriented-Programming)
+This repository will have the codes of few  basics of oop
+
+
+
